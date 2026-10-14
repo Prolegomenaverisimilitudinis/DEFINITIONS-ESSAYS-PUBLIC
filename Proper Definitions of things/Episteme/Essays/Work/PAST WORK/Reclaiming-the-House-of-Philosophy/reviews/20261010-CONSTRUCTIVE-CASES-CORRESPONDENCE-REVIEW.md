@@ -1,0 +1,19 @@
+# Constructive cases: bounded source and correspondence review
+
+10 October 2026. Reviewed the candidate main document's §3, §§6.8–6.9, §7, source-register entries P3/P5, and §18.3 against the relevant local Popper passages already investigated. No main-document edits. Main line numbers below refer to the candidate read during this review.
+
+**Result: pass within this scope. No consequential correction required.**
+
+- **Diagonal and successor means — main lines 336–342.** The mathematical example correctly identifies the failure of integer-ratio representation, rather than the absence of the diagonal or the collapse of exact comparison. Popper's exposition supports that distinction at chapter 2, lines 1770–1774, and supplies the arithmetic proof at 1866–1874. The candidate attributes the claims about Plato's motives and Euclid's purposes as historical interpretations; it does not present Popper's genealogy as independently established history. The constructive implication is substantive and supported: chapter 2, lines 1930–1946, expressly discusses consciously constructing an approach to knowledge, rather than merely acting within the inherited approach.
+
+- **Calculus — main lines 344–354.** The candidate retains the reality of foundational criticism while distinguishing it from a prohibition on successor construction. This corresponds to chapter 2, lines 1448–1464, including Popper's concession that Berkeley's criticism was fundamentally right. It does not imply that every unclear proposal contains a breakthrough or that useful performance excuses defective foundations. It avoids making a technical claim about the computable-sequence illustration in Popper's footnote.
+
+- **Tarski through Popper — main lines 358–366.** The candidate limits the case to the philosophical distinction illuminated by Popper's exposition. It separates stating truth conditions from showing that they obtain, rejects a universal empirical truth-recognition procedure, and expressly says it is not presenting Tarski's technical definitions. Those limits correspond to chapter 10, lines 4412–4416 and 4430–4456. The constructive implication is supported by Popper's account of his earlier difficulty articulating correspondence at 4390–4398. No claim is made that Popper or Tarski first invented the distinction between truth and belief; the source itself acknowledges its earlier history.
+
+- **Constitution, interpretation and assessment — main lines 97–106 and 330–332.** Formal consequence is distinguished from empirical adequacy, and constituted representations do not create the corresponding worldly facts. The account of rational criticism beyond empirical falsifiability matches chapter 8, lines 3924–3938: assessment can concern the proposed solution's relation to its problem, alternatives, displaced difficulties and contradictions.
+
+- **Clearing and historical force — main lines 284–300, 354 and 364.** Clearing is explicitly recognized as constructive work, and the text expressly refuses exclusive historical credit to one thinker. Tarski supplies a separate case in which construction performs clearance. Continuing achievements count against indiscriminate decline, while unresolved difficulty is distinguished from abdication. The historical chronology remains a claim requiring additional evidence.
+
+P3 and P5 accurately locate and bound these uses. Section 18.3, especially main line 698, correctly distinguishes support for the cases and attributed criticisms from proof of the wider chronology or contemporary technological adequacy.
+
+This pass does not independently verify the entire decline thesis, the other authors' interpretations, every obstruction listed in §6.8, or any contemporary implementation programme. It establishes that the reviewed mathematical and semantic cases carry their stated constructive consequence without the identified source overclaims.
